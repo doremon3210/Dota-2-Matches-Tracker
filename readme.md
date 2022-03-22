@@ -10,4 +10,4 @@ This program uses data from [DOTABUFF](https://www.dotabuff.com/) and [TrackDota
 * ChromeDriver
 
 # Note
-Here I'm using Chrome version 99, so this ChromeDriver file is version 99.0.4844.51
+Here I'm using Chrome version 99, so the ChromeDriver file is version 99.0.4844.51
